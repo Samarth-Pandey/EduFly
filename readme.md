@@ -14,3 +14,6 @@ Lightweight demo that combines a voice assistant (Proton), gesture-based system 
 Install Python 3.7+ and the required packages (example):
 ```sh
 pip install opencv-python mediapipe numpy pyttsx3 SpeechRecognition pynput pyautogui eel pycaw comtypes screen-brightness-control wikipedia
+
+## Demo Video
+https://drive.google.com/file/d/1MpK1vSQrhaNz9kj9tNNUpqdJeFoaNaaA/view?usp=sharing
