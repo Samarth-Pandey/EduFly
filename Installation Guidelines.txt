@@ -1,0 +1,13 @@
+Step.1) Install Python v3.0 or above
+Step.2) Install Required Libraries(use command pip install library_name) 
+        ->cv2
+        ->numpy
+        ->MediaPipe
+        ->pyttsx3
+        ->speech_recognition
+        ->pynput
+        ->pyautogui
+        ->datetime
+        ->eel 
+Step.3) Run the proton module using command prompt or any code editors.
+        For cmd run command( py proton.py) in the same folder. 
